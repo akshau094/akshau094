@@ -321,12 +321,105 @@ class Developer {
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Custom CSS for animations -->
+
+
+
+---
+
 <div align="center">
-  <h2>🎵 Currently Vibing To</h2>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k5kq3ygopf4xhxhfr7x2f3wgxq&count=1&unique=true" alt="Spotify"/>
+  <img src="https://komarev.com/ghpvc/?username=akshau094&label=Profile%20Views&color=blueviolet&style=for-the-badge&logo=eye" class="glowing" />
+  <img src="https://img.shields.io/github/followers/akshau094?label=Followers&style=for-the-badge&color=blue&logo=github" class="pulsing" />
+  <img src="https://img.shields.io/github/stars/akshau094?label=Total%20Stars&style=for-the-badge&color=yellow&logo=star" class="glowing" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Cloud-brightgreen?style=for-the-badge&logo=target" class="pulsing" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=for-the-badge&logo=checkmark" class="glowing" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="600"/>
 </div>
 
 ---
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300"/>
+</div>
+
+### 🎯 **Current Mission**
+- 🔭 **Building:** AI-powered SaaS applications
+- 🌱 **Learning:** Advanced ML algorithms & Web3
+- 🤝 **Collaborating:** On innovative solutions
+- 💡 **Creating:** Next-gen user experiences
+- 🎮 **Developing:** Interactive game experiences
+
+### ⚡ **Fun Facts**
+- 🌙 Night owl coder (peak hours: 10PM-3AM)
+- ☕ Coffee consumption: 5+ cups/day
+- 🎮 Gaming setup: RTX-powered development
+- 🎸 Music: Lo-fi beats while coding
+- 🏃‍♂️ Fitness: Code-run-repeat cycle
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+  <h2>🛠️ Technology Arsenal & Expertise</h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" class="pulsing"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600"/>
+</div>
+
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
